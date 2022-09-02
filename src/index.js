@@ -46,8 +46,7 @@ class Board extends React.Component {
   }
 
   render() {
-    const status =
-      'Next player: X "this also proves that I am synced properly!';
+    const status = "Next player: X boo";
 
     return (
       <div>
